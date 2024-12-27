@@ -9,7 +9,7 @@
   "bannerRandom": 20,
   "bannerRequestLimit": 20,
   "insertRequestLimit": 15,
-  "yandexInsertRequestLimit": 1,
+  "yandexInsertRequestLimit": 15,
   "noAdSwitch": 1,
   "noAdTime": 120,
   "qtRewardSwitch": 1,
