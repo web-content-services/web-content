@@ -1,9 +1,9 @@
-{
+c{
   "liveVersionNum": 1.1,
   "packageIndex": "2",
-  "iat": 90,
-  "imat": 60,
-  "bannerSwitch": 1,
+  "iat": 60,
+  "imat": 30,
+  "bannerSwitch": 0,
   "bannerToNative": 0,
   "bannerRefresh": 60,
   "bannerRandom": 20,
