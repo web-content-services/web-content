@@ -8,7 +8,7 @@
   "bannerRefresh": 60,
   "bannerRandom": 20,
   "bannerRequestLimit": 20,
-  "insertRequestLimit": 5,
+  "insertRequestLimit": 1,
   "yandexInsertRequestLimit": 15,
   "noAdSwitch": 1,
   "noAdTime": 120,
