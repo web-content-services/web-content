@@ -3,7 +3,7 @@
   "packageIndex": "2",
   "iat": 60,
   "imat": 30,
-  "bannerSwitch": 1,
+  "bannerSwitch": 0,
   "bannerToNative": 0,
   "bannerRefresh": 60,
   "bannerRandom": 20,
