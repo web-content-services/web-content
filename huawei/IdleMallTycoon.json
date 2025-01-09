@@ -10,8 +10,8 @@
   "bannerRequestLimit": 30,
   "insertRequestLimit": 15,
   "yandexInsertRequestLimit": 20,
-  "noAdSwitch": 1,
+  "noAdSwitch": 0,
   "noAdTime": 120,
-  "qtRewardSwitch": 1,
+  "qtRewardSwitch": 0,
   "qtRewardTime": 150
 }
