@@ -1,0 +1,12 @@
+{
+ "iat": 120,
+ "imat": 60,
+ "bannerSwitch": 1,
+ "bannerRefresh": 60,
+ "bannerRequestLimit": 15,
+ "insertRequestLimit": 15,
+ "noAdSwitch": 1,
+ "noAdTime": 120,
+ "qtRewardSwitch": 1,
+ "qtRewardTime": 180
+}
