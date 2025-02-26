@@ -1,15 +1,15 @@
 {
  "liveVersionNum": 141,
  "packageIndex": "2",
- "iat": 120,
- "imat": 60,
+ "iat": 61,
+ "imat": 31,
  "bannerSwitch": 1,
  "bannerRefresh": 60,
- "bannerRequestLimit": 15,
- "insertRequestLimit": 15,
- "noAdSwitch": 1,
+ "bannerRequestLimit": 30,
+ "insertRequestLimit": 20,
+ "noAdSwitch": 0,
  "noAdTime": 120,
  "qtRewardSwitch": 1,
- "qtRewardTime": 180,
+ "qtRewardTime": 181,
  "isPersonalize": 0
 }
