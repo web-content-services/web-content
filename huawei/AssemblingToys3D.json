@@ -1,11 +1,11 @@
 {
   "liveVersionCode": 13,
   "packageIndex": "2",
-  "iat": 60,
-  "imat": 30,
+  "iat": 61,
+  "imat": 31,
   "bannerSwitch": 0,
-  "noAdSwitch": 1,
+  "noAdSwitch": 0,
   "noAdTime": 120,
   "qtRewardSwitch": 1,
-  "qtRewardTime": 170
+  "qtRewardTime": 171
 }
