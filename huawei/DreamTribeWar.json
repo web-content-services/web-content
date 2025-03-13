@@ -3,7 +3,7 @@
  "packageIndex": "2",
  "iat": 41,
  "imat": 21,
- "bannerSwitch": 0,
+ "bannerSwitch": 1,
  "bannerRefresh": 60,
  "bannerRequestLimit": 30,
  "insertRequestLimit": 20,
