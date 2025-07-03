@@ -1,0 +1,5 @@
+{
+ "baseProbability": 0.3,
+ "weightDecayRate": 0.05,
+ "maxWeight": 3
+}
