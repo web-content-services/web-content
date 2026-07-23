@@ -1,10 +1,1 @@
-{
- "liveVersionCode": 10,
- "packageIndex": 1,
- "iat": 61,
- "imat": 20,
- "noAdSwitch": 0,
- "noAdTime": 120,
- "qtRewardSwitch": 0,
- "qtRewardTime": 180
-}
+[{"liveVersionNum":10,"packageIndex":2,"iat":120,"bannerSwitch":0,"bannerRefresh":120,"qtRewardSwitch":1,"qtRewardTime":180}]
